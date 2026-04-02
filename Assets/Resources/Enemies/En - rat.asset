@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 077eac8caa807b24e8210be6b4ec5be7, type: 3}
+  m_Name: En - rat
+  m_EditorClassIdentifier: 
+  nameCharacter: Rat
+  maxHealth: 5
+  spritesMove:
+  - {fileID: 8730448832773115532, guid: cc781eabb1514014db45425f220081cf, type: 3}
+  - {fileID: -6215863255707229413, guid: cc781eabb1514014db45425f220081cf, type: 3}
+  - {fileID: -4681956811286952775, guid: cc781eabb1514014db45425f220081cf, type: 3}
+  - {fileID: 8462818661728998415, guid: cc781eabb1514014db45425f220081cf, type: 3}
+  - {fileID: -130249923496009278, guid: cc781eabb1514014db45425f220081cf, type: 3}
+  - {fileID: -2185218765003682664, guid: cc781eabb1514014db45425f220081cf, type: 3}
+  spritesDeath:
+  - {fileID: 3196180266723838695, guid: 02025d61aef2e394fbcc0400319ee84a, type: 3}
+  - {fileID: 4392502403517386861, guid: 02025d61aef2e394fbcc0400319ee84a, type: 3}
+  - {fileID: 959460331882449621, guid: 02025d61aef2e394fbcc0400319ee84a, type: 3}
+  - {fileID: -8841434923846461604, guid: 02025d61aef2e394fbcc0400319ee84a, type: 3}
+  - {fileID: -1810334828694086222, guid: 02025d61aef2e394fbcc0400319ee84a, type: 3}
+  - {fileID: 986756850881568546, guid: 02025d61aef2e394fbcc0400319ee84a, type: 3}
+  spritesAttack: []
+  damage: 1
+  moveSpeed: 1.5

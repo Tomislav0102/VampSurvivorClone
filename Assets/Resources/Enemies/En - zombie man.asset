@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 077eac8caa807b24e8210be6b4ec5be7, type: 3}
+  m_Name: En - zombie man
+  m_EditorClassIdentifier: 
+  nameCharacter: Man Zombie
+  maxHealth: 15
+  spritesMove:
+  - {fileID: 329366159, guid: 86a387625eaa3f64a8ffa69a7c397ec3, type: 3}
+  - {fileID: 34476366, guid: 86a387625eaa3f64a8ffa69a7c397ec3, type: 3}
+  - {fileID: -30822809, guid: 86a387625eaa3f64a8ffa69a7c397ec3, type: 3}
+  - {fileID: -550791293, guid: 86a387625eaa3f64a8ffa69a7c397ec3, type: 3}
+  - {fileID: 1099838207, guid: 86a387625eaa3f64a8ffa69a7c397ec3, type: 3}
+  - {fileID: -305919798, guid: 86a387625eaa3f64a8ffa69a7c397ec3, type: 3}
+  - {fileID: -216835544, guid: 86a387625eaa3f64a8ffa69a7c397ec3, type: 3}
+  spritesDeath:
+  - {fileID: -1680992011, guid: 1242a061af4b26c418a9f4d73a64dcd8, type: 3}
+  - {fileID: -2128522311, guid: 1242a061af4b26c418a9f4d73a64dcd8, type: 3}
+  - {fileID: 75322864, guid: 1242a061af4b26c418a9f4d73a64dcd8, type: 3}
+  - {fileID: 58070685, guid: 1242a061af4b26c418a9f4d73a64dcd8, type: 3}
+  - {fileID: 1640540042, guid: 1242a061af4b26c418a9f4d73a64dcd8, type: 3}
+  spritesAttack: []
+  damage: 1
+  moveSpeed: 0.8

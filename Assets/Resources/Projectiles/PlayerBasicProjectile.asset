@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 199baa2e8cf7b75448645dffe5896097, type: 3}
+  m_Name: PlayerBasicProjectile
+  m_EditorClassIdentifier: 
+  nameAgent: PlayerBasicProjectile
+  spritesMove:
+  - {fileID: 21300000, guid: 3d422bd32b1ed6b41ad6c9af2747a764, type: 3}
+  - {fileID: 21300000, guid: 21053371ad03cf548907a18ac825697e, type: 3}
+  spritesDeath: []
+  spritesAttack: []

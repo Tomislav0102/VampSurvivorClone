@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 077eac8caa807b24e8210be6b4ec5be7, type: 3}
+  m_Name: En - zombie woman
+  m_EditorClassIdentifier: 
+  nameCharacter: Woman Zombie
+  maxHealth: 15
+  spritesMove:
+  - {fileID: -789807033, guid: a18cddd5c14e5da4b98f940345ad48cf, type: 3}
+  - {fileID: 2083940150, guid: a18cddd5c14e5da4b98f940345ad48cf, type: 3}
+  - {fileID: -896946067, guid: a18cddd5c14e5da4b98f940345ad48cf, type: 3}
+  - {fileID: 138327442, guid: a18cddd5c14e5da4b98f940345ad48cf, type: 3}
+  - {fileID: -1854736525, guid: a18cddd5c14e5da4b98f940345ad48cf, type: 3}
+  - {fileID: -1730503878, guid: a18cddd5c14e5da4b98f940345ad48cf, type: 3}
+  - {fileID: -182694552, guid: a18cddd5c14e5da4b98f940345ad48cf, type: 3}
+  spritesDeath:
+  - {fileID: 329244527, guid: 7b6713429eb979547a5d3cb825328ba3, type: 3}
+  - {fileID: -527909088, guid: 7b6713429eb979547a5d3cb825328ba3, type: 3}
+  - {fileID: -2122696350, guid: 7b6713429eb979547a5d3cb825328ba3, type: 3}
+  - {fileID: -1616499919, guid: 7b6713429eb979547a5d3cb825328ba3, type: 3}
+  - {fileID: 21568522, guid: 7b6713429eb979547a5d3cb825328ba3, type: 3}
+  spritesAttack: []
+  damage: 1
+  moveSpeed: 0.7

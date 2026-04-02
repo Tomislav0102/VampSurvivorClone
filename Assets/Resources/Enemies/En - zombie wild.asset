@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 077eac8caa807b24e8210be6b4ec5be7, type: 3}
+  m_Name: En - zombie wild
+  m_EditorClassIdentifier: 
+  nameCharacter: Wild Zombie
+  maxHealth: 15
+  spritesMove:
+  - {fileID: -311174324, guid: eed9588fc779a4040bedfcf5d2efde50, type: 3}
+  - {fileID: -2130035862, guid: eed9588fc779a4040bedfcf5d2efde50, type: 3}
+  - {fileID: 1851847696, guid: eed9588fc779a4040bedfcf5d2efde50, type: 3}
+  - {fileID: -1436675631, guid: eed9588fc779a4040bedfcf5d2efde50, type: 3}
+  - {fileID: -309120105, guid: eed9588fc779a4040bedfcf5d2efde50, type: 3}
+  - {fileID: -2011044902, guid: eed9588fc779a4040bedfcf5d2efde50, type: 3}
+  - {fileID: 263726829, guid: eed9588fc779a4040bedfcf5d2efde50, type: 3}
+  spritesDeath:
+  - {fileID: 2069927387, guid: 02d7801b1b466174c903e6990f018906, type: 3}
+  - {fileID: -190159919, guid: 02d7801b1b466174c903e6990f018906, type: 3}
+  - {fileID: 1859145286, guid: 02d7801b1b466174c903e6990f018906, type: 3}
+  - {fileID: -187179434, guid: 02d7801b1b466174c903e6990f018906, type: 3}
+  - {fileID: -280336897, guid: 02d7801b1b466174c903e6990f018906, type: 3}
+  spritesAttack: []
+  damage: 1
+  moveSpeed: 1.1
